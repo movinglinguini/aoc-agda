@@ -1,0 +1,3 @@
+[submodule "ParserCombinator"]
+  path = ParserCombinator
+  url = git@github.com:nad/parser-combinators.git
