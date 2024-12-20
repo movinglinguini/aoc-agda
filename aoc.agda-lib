@@ -1,0 +1,5 @@
+name: aoc
+depend: standard-library
+include: . ParserCombinator/
+flags:
+  --guardedness
